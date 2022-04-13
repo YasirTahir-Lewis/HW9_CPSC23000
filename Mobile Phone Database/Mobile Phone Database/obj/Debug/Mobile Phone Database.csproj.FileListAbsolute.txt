@@ -1,0 +1,18 @@
+C:\Users\yasir\Spring 2022\.NET Programming\week13\Mobile Phone Database\Mobile Phone Database\bin\Debug\Mobile Phone Database.exe.config
+C:\Users\yasir\Spring 2022\.NET Programming\week13\Mobile Phone Database\Mobile Phone Database\bin\Debug\Mobile Phone Database.exe
+C:\Users\yasir\Spring 2022\.NET Programming\week13\Mobile Phone Database\Mobile Phone Database\bin\Debug\Mobile Phone Database.pdb
+C:\Users\yasir\Spring 2022\.NET Programming\week13\Mobile Phone Database\Mobile Phone Database\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\yasir\Spring 2022\.NET Programming\week13\Mobile Phone Database\Mobile Phone Database\bin\Debug\System.Data.SqlClient.dll
+C:\Users\yasir\Spring 2022\.NET Programming\week13\Mobile Phone Database\Mobile Phone Database\bin\Debug\System.Security.AccessControl.dll
+C:\Users\yasir\Spring 2022\.NET Programming\week13\Mobile Phone Database\Mobile Phone Database\bin\Debug\System.Security.Permissions.dll
+C:\Users\yasir\Spring 2022\.NET Programming\week13\Mobile Phone Database\Mobile Phone Database\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\yasir\Spring 2022\.NET Programming\week13\Mobile Phone Database\Mobile Phone Database\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\yasir\Spring 2022\.NET Programming\week13\Mobile Phone Database\Mobile Phone Database\bin\Debug\System.Data.SqlClient.xml
+C:\Users\yasir\Spring 2022\.NET Programming\week13\Mobile Phone Database\Mobile Phone Database\bin\Debug\System.Security.AccessControl.xml
+C:\Users\yasir\Spring 2022\.NET Programming\week13\Mobile Phone Database\Mobile Phone Database\bin\Debug\System.Security.Permissions.xml
+C:\Users\yasir\Spring 2022\.NET Programming\week13\Mobile Phone Database\Mobile Phone Database\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\yasir\Spring 2022\.NET Programming\week13\Mobile Phone Database\Mobile Phone Database\obj\Debug\Mobile Phone Database.csprojAssemblyReference.cache
+C:\Users\yasir\Spring 2022\.NET Programming\week13\Mobile Phone Database\Mobile Phone Database\obj\Debug\Mobile Phone Database.csproj.CoreCompileInputs.cache
+C:\Users\yasir\Spring 2022\.NET Programming\week13\Mobile Phone Database\Mobile Phone Database\obj\Debug\Mobile Phone Database.csproj.CopyComplete
+C:\Users\yasir\Spring 2022\.NET Programming\week13\Mobile Phone Database\Mobile Phone Database\obj\Debug\Mobile Phone Database.exe
+C:\Users\yasir\Spring 2022\.NET Programming\week13\Mobile Phone Database\Mobile Phone Database\obj\Debug\Mobile Phone Database.pdb
